@@ -2,4 +2,4 @@
 Javascript Lab 2 Arrays
 
 
-:https://fraigo.github.io/jslab02/
+https://fraigo.github.io/jslab02/
