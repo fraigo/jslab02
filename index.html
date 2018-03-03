@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>JS Lab 01</title>
+	<title>JS Lab 02</title>
 	
 </head>
 <body>
-	<h1>JS Lab 01</h1>
+	<h1>JS Lab 02</h1>
 	<script>
 	
 	//native console.log()
 	var browserConsoleLog=console.log;
 
-	//log to screen
+	//log to screen , override console.log
 	console.log=function(obj){
 		browserConsoleLog(obj);
 		var el=document.createElement("pre");
